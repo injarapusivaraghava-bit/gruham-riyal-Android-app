@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "short_name": "Mana Gruham",
+  "name": "Mana Gruham - మన గృహం రియల్ యాప్",
+  "description": "100% Verified Listings - Andhra Pradesh Houses, Plots, Farmlands, Orchards & Commercial Real Estate",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#15803D",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
